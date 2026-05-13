@@ -1,0 +1,227 @@
+{
+  "leads": [
+    {
+      "id": "3450a4ed-cb67-4e13-afd6-784486aa1fb9",
+      "name": "Sarah Connor",
+      "company": "Acme Corp",
+      "phone": "555-0199",
+      "status": "Proposal Sent",
+      "followUpDate": "2026-05-14",
+      "followUpTime": null,
+      "createdAt": "2026-05-07T04:46:08.042Z",
+      "updatedAt": "2026-05-13T04:58:29.206Z"
+    },
+    {
+      "id": "b8d8c338-049c-405a-acfc-51ab50950665",
+      "name": "Hank Scorpio",
+      "company": "Globex",
+      "phone": "555-0142",
+      "status": "New",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-13T02:46:08.042Z",
+      "updatedAt": "2026-05-13T02:46:08.042Z"
+    },
+    {
+      "id": "80ecc09e-a7af-453e-ae08-f3ade2e1a2cf",
+      "name": "Bill Lumbergh",
+      "company": "Initech",
+      "phone": "555-0167",
+      "status": "Contacted",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-03T04:46:08.042Z",
+      "updatedAt": "2026-05-13T04:53:24.757Z"
+    },
+    {
+      "id": "dfb3ae5c-4c69-48d6-88be-2fb93de1e3eb",
+      "name": "Bruce Wayne",
+      "company": "Wayne Enterprises",
+      "phone": "555-0188",
+      "status": "Won",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-04-13T04:46:08.042Z",
+      "updatedAt": "2026-04-22T04:46:08.042Z"
+    },
+    {
+      "id": "9b430d7d-7e94-4976-868c-157730573317",
+      "name": "Regina Phalange",
+      "company": "Phalange Inc",
+      "phone": "555-0134",
+      "status": "Qualified",
+      "followUpDate": "2026-05-14",
+      "followUpTime": "10:00",
+      "createdAt": "2026-05-08T04:46:08.042Z",
+      "updatedAt": "2026-05-12T04:46:08.042Z"
+    },
+    {
+      "id": "3b26ddd8-eb8d-4396-9a46-f33866b977c9",
+      "name": "Walter White",
+      "company": "Gray Matter Tech",
+      "phone": "505-0101",
+      "status": "Lost",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-04-23T04:46:08.042Z",
+      "updatedAt": "2026-04-29T04:46:08.042Z"
+    },
+    {
+      "id": "42908abc-01b2-4baf-9c98-730e833a6bc5",
+      "name": "Mahesh Katyayan",
+      "company": "Oracle Financial Services Software",
+      "phone": "07764914824",
+      "status": "New",
+      "followUpDate": "2026-06-06",
+      "followUpTime": "16:33",
+      "createdAt": "2026-05-13T04:47:54.095Z",
+      "updatedAt": "2026-05-13T04:57:35.693Z"
+    }
+  ],
+  "discussions": [
+    {
+      "id": "6f2f527a-bf14-41af-a9c6-55441c292670",
+      "leadId": "3450a4ed-cb67-4e13-afd6-784486aa1fb9",
+      "note": "Lead created via web form.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-07T04:46:08.042Z"
+    },
+    {
+      "id": "c5d0da12-609e-44ac-a780-a7426c488437",
+      "leadId": "3450a4ed-cb67-4e13-afd6-784486aa1fb9",
+      "note": "Initial discovery call. They need a CRM for 50 reps. Pain points include dropping leads and no follow-up tracking.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-08T04:46:08.042Z"
+    },
+    {
+      "id": "19cef139-b2d3-4a8f-98fa-6f1b77cfb5f0",
+      "leadId": "3450a4ed-cb67-4e13-afd6-784486aa1fb9",
+      "note": "Sent pricing tier PDF. Said she would review with her boss.",
+      "followUpDate": "2026-05-13",
+      "followUpTime": "14:00",
+      "createdAt": "2026-05-11T04:46:08.042Z"
+    },
+    {
+      "id": "1134dd1e-4c0e-4091-a3e4-703f0ab28f39",
+      "leadId": "b8d8c338-049c-405a-acfc-51ab50950665",
+      "note": "Inbound lead from website contact form.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-13T02:46:08.042Z"
+    },
+    {
+      "id": "89980fd4-f2ea-4312-abdd-4b95a4c793ca",
+      "leadId": "80ecc09e-a7af-453e-ae08-f3ade2e1a2cf",
+      "note": "Lead created.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-03T04:46:08.042Z"
+    },
+    {
+      "id": "f6fe2dac-e345-42f2-97fa-9c8f7b372391",
+      "leadId": "80ecc09e-a7af-453e-ae08-f3ade2e1a2cf",
+      "note": "Left a voicemail with his assistant. Waiting for callback.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-06T04:46:08.042Z"
+    },
+    {
+      "id": "00b4cc9b-99f2-4d38-9f06-dbedfd4b1569",
+      "leadId": "dfb3ae5c-4c69-48d6-88be-2fb93de1e3eb",
+      "note": "Lead created via partner referral.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-04-13T04:46:08.042Z"
+    },
+    {
+      "id": "2ee201a9-69b0-4c0e-a215-69769ebbecb9",
+      "leadId": "dfb3ae5c-4c69-48d6-88be-2fb93de1e3eb",
+      "note": "Demo call went great. They loved the kanban pipeline view.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-04-15T04:46:08.042Z"
+    },
+    {
+      "id": "9662b209-1ebf-4e4e-9956-a961afce1376",
+      "leadId": "dfb3ae5c-4c69-48d6-88be-2fb93de1e3eb",
+      "note": "Contract signed! Sending welcome package.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-04-22T04:46:08.042Z"
+    },
+    {
+      "id": "ed550a61-6426-4f68-8ffd-f5b47b89a9d0",
+      "leadId": "9b430d7d-7e94-4976-868c-157730573317",
+      "note": "Cold outreach via LinkedIn. Responded positively.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-08T04:46:08.042Z"
+    },
+    {
+      "id": "c392e0a6-772c-4298-b5bc-d7dfc44ef1bf",
+      "leadId": "9b430d7d-7e94-4976-868c-157730573317",
+      "note": "Qualification call done. Budget confirmed at $2k/mo. Moving to proposal stage next week.",
+      "followUpDate": "2026-05-14",
+      "followUpTime": "10:00",
+      "createdAt": "2026-05-12T04:46:08.042Z"
+    },
+    {
+      "id": "f4175d99-c255-48b0-8ab5-c000c8aa40a8",
+      "leadId": "3b26ddd8-eb8d-4396-9a46-f33866b977c9",
+      "note": "Reached out but he seems preoccupied with other business.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-04-23T04:46:08.042Z"
+    },
+    {
+      "id": "024953c2-0a77-4945-bc9b-b09bade53308",
+      "leadId": "3b26ddd8-eb8d-4396-9a46-f33866b977c9",
+      "note": "No response after 3 follow-ups. Marking as lost.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-04-29T04:46:08.042Z"
+    },
+    {
+      "id": "e997d87b-ca21-4a26-a87f-27154aceaf55",
+      "leadId": "42908abc-01b2-4baf-9c98-730e833a6bc5",
+      "note": "Lead created.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-13T04:47:54.095Z"
+    },
+    {
+      "id": "2f202e0f-323f-4ce5-8a9f-ae50bc2f8be4",
+      "leadId": "42908abc-01b2-4baf-9c98-730e833a6bc5",
+      "note": "okay good job",
+      "followUpDate": "2026-05-13",
+      "followUpTime": "11:19",
+      "createdAt": "2026-05-13T04:49:38.690Z"
+    },
+    {
+      "id": "bc0998ca-d341-4051-9a18-405001db7106",
+      "leadId": "80ecc09e-a7af-453e-ae08-f3ade2e1a2cf",
+      "note": "new discutt",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-13T04:53:24.757Z"
+    },
+    {
+      "id": "098fed78-a1d8-401e-8dd9-e8371d3916a6",
+      "leadId": "42908abc-01b2-4baf-9c98-730e833a6bc5",
+      "note": "we will notified you",
+      "followUpDate": "2026-06-06",
+      "followUpTime": "16:33",
+      "createdAt": "2026-05-13T04:57:35.693Z"
+    },
+    {
+      "id": "e8775cbe-f0b7-4aaf-bc30-9383c1e1ea97",
+      "leadId": "3450a4ed-cb67-4e13-afd6-784486aa1fb9",
+      "note": "kal dekhte hai",
+      "followUpDate": "2026-05-14",
+      "followUpTime": null,
+      "createdAt": "2026-05-13T04:58:29.206Z"
+    }
+  ]
+}
