@@ -32,7 +32,7 @@ app.use((err, _req, res, _next) => {
 async function start() {
   await initDb()
   app.listen(PORT, () => {
-    console.log(`✅ LeadFlow API running on http://localhost:${PORT}`)
+    console.log(`server is running on http://localhost:${PORT}`)
   })
 }
 

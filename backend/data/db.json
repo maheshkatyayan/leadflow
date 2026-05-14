@@ -17,10 +17,10 @@
       "company": "Globex",
       "phone": "555-0142",
       "status": "New",
-      "followUpDate": null,
-      "followUpTime": null,
+      "followUpDate": "2026-05-14",
+      "followUpTime": "11:41",
       "createdAt": "2026-05-13T02:46:08.042Z",
-      "updatedAt": "2026-05-13T02:46:08.042Z"
+      "updatedAt": "2026-05-14T06:07:02.827Z"
     },
     {
       "id": "80ecc09e-a7af-453e-ae08-f3ade2e1a2cf",
@@ -50,8 +50,8 @@
       "company": "Phalange Inc",
       "phone": "555-0134",
       "status": "Qualified",
-      "followUpDate": "2026-05-14",
-      "followUpTime": "10:00",
+      "followUpDate": null,
+      "followUpTime": null,
       "createdAt": "2026-05-08T04:46:08.042Z",
       "updatedAt": "2026-05-12T04:46:08.042Z"
     },
@@ -76,6 +76,17 @@
       "followUpTime": "16:33",
       "createdAt": "2026-05-13T04:47:54.095Z",
       "updatedAt": "2026-05-13T04:57:35.693Z"
+    },
+    {
+      "id": "ca78269f-22e9-4854-9afd-a3aa8ad40b65",
+      "name": "leadflow",
+      "company": "Oracle Financial Services Software",
+      "phone": "07764914824",
+      "status": "New",
+      "followUpDate": "2026-05-15",
+      "followUpTime": "11:42",
+      "createdAt": "2026-05-14T06:07:53.965Z",
+      "updatedAt": "2026-05-14T06:08:23.449Z"
     }
   ],
   "discussions": [
@@ -222,6 +233,38 @@
       "followUpDate": "2026-05-14",
       "followUpTime": null,
       "createdAt": "2026-05-13T04:58:29.206Z"
+    },
+    {
+      "id": "0e31e193-1323-4d99-a66d-491976d62321",
+      "leadId": "b8d8c338-049c-405a-acfc-51ab50950665",
+      "note": "let do it today",
+      "followUpDate": "2026-05-14",
+      "followUpTime": "11:20",
+      "createdAt": "2026-05-14T05:49:22.206Z"
+    },
+    {
+      "id": "aa766cb6-d27d-4a25-b81a-8770caba4238",
+      "leadId": "b8d8c338-049c-405a-acfc-51ab50950665",
+      "note": "let do it today",
+      "followUpDate": "2026-05-14",
+      "followUpTime": "11:41",
+      "createdAt": "2026-05-14T06:07:02.827Z"
+    },
+    {
+      "id": "c7d2f88d-4b3c-48d6-adeb-19fd17536e13",
+      "leadId": "ca78269f-22e9-4854-9afd-a3aa8ad40b65",
+      "note": "Lead created.",
+      "followUpDate": null,
+      "followUpTime": null,
+      "createdAt": "2026-05-14T06:07:53.965Z"
+    },
+    {
+      "id": "9d6b7867-697d-4458-ab82-f23b5f02f99a",
+      "leadId": "ca78269f-22e9-4854-9afd-a3aa8ad40b65",
+      "note": "keep it",
+      "followUpDate": "2026-05-15",
+      "followUpTime": "11:42",
+      "createdAt": "2026-05-14T06:08:23.449Z"
     }
   ]
 }

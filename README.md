@@ -2,7 +2,7 @@
 
 A lightweight, single-screen CRM for sales reps to track leads, log discussions, and manage follow-ups.
 
-![LeadFlow Screenshot](./screenshot.png)
+![LeadFlow Video demo](https://www.loom.com/share/1e601396e1c6415c81595abefb1c4973)
 
 ---
 
@@ -42,7 +42,7 @@ A lightweight, single-screen CRM for sales reps to track leads, log discussions,
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/leadflow.git
+git clone https://github.com/maheshkatyayan/leadflow
 cd leadflow
 npm run install:all
 ```
