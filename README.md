@@ -1,8 +1,6 @@
-# LeadFlow 🚀
+# LeadFlow 
 
 A lightweight, single-screen CRM for sales reps to track leads, log discussions, and manage follow-ups.
-
-![LeadFlow Video demo](https://www.loom.com/share/1e601396e1c6415c81595abefb1c4973)
 
 ---
 
@@ -88,7 +86,7 @@ Open **http://localhost:5173** in your browser.
 ## Quick Start (Docker Compose)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/leadflow.git
+git clone https://github.com/maheshkatyayan/leadflow
 cd leadflow
 docker compose up --build
 ```
@@ -184,11 +182,11 @@ leadflow/
 
 ## Bonus Features Implemented
 
-- ✅ **Search** — real-time search by name or company
-- ✅ **Overdue follow-ups highlighted in red** — both on cards and in timeline
-- ✅ **Docker Compose** — full containerised setup
-- ✅ **Seed script** — 6 leads + 13 discussions
-- ✅ **Status filters** — all 6 statuses + "All" tab
+-  **Search** — real-time search by name or company
+-  **Overdue follow-ups highlighted in red** — both on cards and in timeline
+-  **Docker Compose** — full containerised setup
+-  **Seed script** — 6 leads + 13 discussions
+-  **Status filters** — all 6 statuses + "All" tab
 
 ---
 
